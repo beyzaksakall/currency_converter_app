@@ -1,0 +1,36 @@
+name: currency_converter_app
+description: "Döviz dönüştürücü uygulaması"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  fl_chart: ^0.65.0
+  cupertino_icons: ^1.0.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logodovizmatik.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/images/logodovizmatik.png
