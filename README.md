@@ -1,5 +1,7 @@
 # DÖVİZMATİK – Flutter Döviz Dönüştürücü Uygulaması
+
 [![YouTube Video](https://img.youtube.com/vi//wcIHj0DUqAA?si=mnX5cKg9kLr-ygVz/0.jpg)](https://youtu.be/wcIHj0DUqAA?si=mnX5cKg9kLr-ygVz)
+![ChatGPT Image 15 Oca 2026 22_32_07](https://github.com/user-attachments/assets/a765c47b-7575-4c1d-b8d6-1d74287068d1)
 
 **DÖVİZMATİK**, Flutter kullanılarak geliştirilmiş, kullanıcıların farklı para birimleri arasında hızlı ve pratik şekilde dönüşüm yapabilmesini sağlayan bir mobil uygulamadır.  
 Uygulama; döviz dönüştürme, grafiklerle kur takibi ve işlem geçmişi gibi temel özellikleri tek bir arayüzde sunar.
